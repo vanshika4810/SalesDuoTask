@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build & dist outputs
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Coverage & test output
+coverage/
+.nyc_output/
+*.lcov
+
+# OS & editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files & caches
+*.tmp
+*.temp
+.cache/
+
+# Runtime data
+*.pid
+*.pid.lock
+pids/
+
+# Optional npm/yarn cache
+.npm/
+.yarn-integrity
+
+# Database files (local dev)
+*.sqlite
+*.sqlite3
+*.db
