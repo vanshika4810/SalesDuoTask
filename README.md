@@ -84,8 +84,8 @@ The prompt was intentionally constrained to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vanshika4810/salesduo-optimizer.git
-cd salesduo-optimizer
+git clone https://github.com/vanshika4810/SalesDuoTask.git
+cd SalesDuoTask
 ```
 
 ### 2. Backend Setup
@@ -169,7 +169,7 @@ Access the app at [http://localhost:5173](http://localhost:5173).
 
 ## Example Flow
 
-1. Enter an ASIN (e.g. `B0C7SMBLZ2`)
+1. Enter an ASIN (e.g. `B07FDJMC9Q`)
 2. Backend scrapes Amazon product details
 3. User clicks **Optimize** → Gemini generates new listing
 4. Both versions shown side-by-side
