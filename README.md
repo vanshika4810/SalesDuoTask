@@ -10,7 +10,7 @@ This project scrapes Amazon product details, stores them in a database, and uses
 - React (Vite)
 - Tailwind CSS
 - Axios
-- Modern responsive UI using shadcn-inspired design and custom drawer for history
+- Modern responsive UI
 
 **Backend:**
 
@@ -23,11 +23,11 @@ This project scrapes Amazon product details, stores them in a database, and uses
 
 ## Features
 
-**Amazon Scraper** — Extracts product title, bullet points, and description using ASIN
-**AI Optimization** — Uses Gemini to rewrite and enrich listings
-**History Tracking** — Stores each optimized version in MySQL with timestamps
-**Compare View** — Displays Original vs Optimized listings side-by-side
-**Right Drawer History** — View past optimizations, switch between versions
+**Amazon Scraper** - Extracts product title, bullet points, and description using ASIN
+**AI Optimization** - Uses Gemini to rewrite and enrich listings
+**History Tracking** - Stores each optimized version in MySQL with timestamps
+**Compare View** - Displays Original vs Optimized listings side-by-side
+**Right Drawer History** - View past optimizations, switch between versions
 
 ---
 

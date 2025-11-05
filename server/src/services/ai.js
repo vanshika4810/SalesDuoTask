@@ -20,7 +20,7 @@ Please generate:
 1. Optimized Title — keyword-rich and clear.
 2. 5 concise bullet points highlighting benefits and features.
 3. A persuasive product description (≤ 300 words).
-4. 4–6 relevant keyword phrases for SEO.
+4. 4-6 relevant keyword phrases for SEO.
 
 Important guidelines:
 - Do NOT use any emojis, special characters, or decorative symbols.
