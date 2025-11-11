@@ -1,6 +1,5 @@
-# SalesDuo Amazon Listing Optimizer
+# Listing Optimizer
 
-A full-stack implementation of the SalesDuo assignment.
 This project scrapes Amazon product details, stores them in a database, and uses **Gemini AI** to generate optimized listings for better SEO and conversions.
 
 ## Tech Stack
